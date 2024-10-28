@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715895c18d8d104ba02a2df52b79a4d, type: 3}
+  m_Name: CC Hungry or Wants Fishy Friend
+  m_EditorClassIdentifier: 
+  CharactersPerSecond: 30
+  DelayBetweenLines: 1.5
+  Text:
+  - Oh woah, outra pessoa me encontrou por aqui, isso é selvagem
+  - Encontrei esse NÚCLEO DE COERÊNCIA, mas estou com muita fome para comer e muito chapado para conseguir comida
+  - Estou com fome o suficiente
+  - Se você me der de comer, eu lhe darei este NÚCLEO DE COERÊNCIA
+  - Ouvi dizer que eles não são comestíveis, então nem vou tentar
+  EventsToThrowOnStart: 
+  EventsToThrowOnLastLine: 
+  LeftLabel: 
+  RightLabel: 
+  LeftChoice: {fileID: 0}
+  RightChoice: {fileID: 0}

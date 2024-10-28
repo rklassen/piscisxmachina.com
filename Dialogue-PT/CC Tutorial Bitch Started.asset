@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715895c18d8d104ba02a2df52b79a4d, type: 3}
+  m_Name: CC Tutorial Bitch Started
+  m_EditorClassIdentifier: 
+  CharactersPerSecond: 30
+  DelayBetweenLines: 1.5
+  Text:
+  - There is absolutely NO possibility of you taking that core of coherence away from me.
+  - É IMPOSSÍVEL PRESSIONAR “MOUSE RIGHT” para o AIM
+  - PORQUE PRIMEIRO VOCÊ PRECISA DE UMA VARA DE PESCAR
+  - 'E mesmo que pudesse, não há como olhar com o mouse '
+  - Mas o que realmente o atrapalharia seria PRESSIONAR “MOUSE 1” para lançar a vara de pescar.
+  - Se alguém chegasse tão longe, ninguém seria capaz de girar o carretel rápido o suficiente para
+    LEVAR
+  - MI
+  - NÚCLEO DE COERÊNCIA
+  EventsToThrowOnStart: 
+  EventsToThrowOnLastLine: 
+  LeftLabel: 
+  RightLabel: 
+  LeftChoice: {fileID: 0}
+  RightChoice: {fileID: 0}
