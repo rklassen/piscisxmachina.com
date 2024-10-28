@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715895c18d8d104ba02a2df52b79a4d, type: 3}
+  m_Name: CC Trade Sequence R2 - Book Wanter
+  m_EditorClassIdentifier: 
+  CharactersPerSecond: 30
+  DelayBetweenLines: 1.5
+  Text:
+  - Esa isla está completamente llena de basura
+  - A nadie le importan los LIBROS
+  - Todos se llenan de basura
+  - Me escapé a esta isla más pequeña para huir, pero estas cajas sólo solían
+    tener un montón de ZAPATOS USADOS
+  - Un conjunto incluso parece que pertenecen a ese tipo HERO en el mech
+  - Me gustaría tener un entretenimiento de calidad como un LIBRO CLÁSICO RARO superfluo
+  - Incluso regalaría estos ZAPATOS HERO USADOS que he estado guardando para más adelante
+  EventsToThrowOnStart: 
+  EventsToThrowOnLastLine: 
+  LeftLabel: 
+  RightLabel: 
+  LeftChoice: {fileID: 0}
+  RightChoice: {fileID: 0}

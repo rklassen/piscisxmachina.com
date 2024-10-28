@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715895c18d8d104ba02a2df52b79a4d, type: 3}
+  m_Name: CC Tutorial Bitch Started
+  m_EditorClassIdentifier: 
+  CharactersPerSecond: 30
+  DelayBetweenLines: 1.5
+  Text:
+  - Es simplemente IMPOSIBLE para usted tomar este núcleo de coherencia de mí
+  - Es IMPOSIBLE PRESIONAR «MOUSE DERECHO» para AIM
+  - PORQUE PRIMERO NECESITAS UNA CAÑA DE PESCA
+  - 'Y aunque pudieras, no hay ninguna posibilidad de que pudieras mirar con el ratón '
+  - pero entonces donde realmente te quedarías atascado es PRESIONAR «MOUSE 1» para lanzar la caña de pesca
+  - Si alguien llegara tan lejos, nadie sería capaz de GIRAR EL CARRETE LO SUFICIENTEMENTE RÁPIDO para
+    TOMA
+  - MI
+  - NÚCLEO DE COHERENCIA
+  EventsToThrowOnStart: 
+  EventsToThrowOnLastLine: 
+  LeftLabel: 
+  RightLabel: 
+  LeftChoice: {fileID: 0}
+  RightChoice: {fileID: 0}
