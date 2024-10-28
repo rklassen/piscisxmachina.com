@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715895c18d8d104ba02a2df52b79a4d, type: 3}
+  m_Name: CC Tutorial Bitch Started
+  m_EditorClassIdentifier: 
+  CharactersPerSecond: 30
+  DelayBetweenLines: 1.5
+  Text:
+  - There's absolutely NO WAY you'll take this coherence core from me
+  - It's IMPOSSIBLE to PRESS RIGHT MOUSE to AIM
+  - BECAUSE YOU NEED A FISHING ROD FIRST
+  - 'And even if you could there''s not a chance you could LOOK WITH YOUR MOUSE '
+  - but then where you'd really get stuck is PRESS MOUSE 1  to CAST ROD
+  - If anyone got that far, no one would be able to SPIN THE REEL FAST ENOUGH to
+    TAKE
+  - MY
+  - COHERENCE CORE
+  EventsToThrowOnStart: 
+  EventsToThrowOnLastLine: 
+  LeftLabel: 
+  RightLabel: 
+  LeftChoice: {fileID: 0}
+  RightChoice: {fileID: 0}
