@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 1.5
   Text:
   - ¿Buscas un NÚCLEO DE COHERENCIA aquí abajo?
-  - No tengo uno, pero puedo arreglar los NÚCLEO DE COHERENCIA ROTOS
+  - No tengo uno, pero puedo arreglar los NÚCLEOS DE COHERENCIA ROTOS
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 

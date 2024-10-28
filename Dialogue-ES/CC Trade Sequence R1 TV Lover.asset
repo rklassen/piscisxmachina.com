@@ -15,12 +15,11 @@ MonoBehaviour:
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - Necesito una BATERÍA para comer si quiero seguir viendog NUEVO SHIN SWORD
+  - Necesito una BATERÍA para comer si quiero seguir viendo NUEVO SHIN SWORD
     RAIL ZZ FOREVER
   - Tengo un televisor PERFECTO
   - Pero no tiene mucha señal aquí
-  - Te lo daré por algo que me permita consumir mi contenido y poder
-    mi estómago
+  - TTe lo daré por algo que me permita consumir mis medios y alimentar mi estómago
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 

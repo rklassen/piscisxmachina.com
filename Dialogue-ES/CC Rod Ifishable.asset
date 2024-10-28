@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 1.5
   Text:
   - Sólo estoy interesado en las personas que son serios acerca de la 
-    recopilación de la coherencia
+    recopilación de la nucleos de coherencia
   - Veremos si estás listo si puedes traer cuatro
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 

@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 2
   Text:
   - ¿Tienes más núcleos de coherencia?
-  - Dame el NÚCLEO DE COHERENCIA presionando MOUSE 1
+  - Dame el NÚCLEO DE COHERENCIA presionando «MOUSE UNO»
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 
