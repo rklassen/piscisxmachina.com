@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f715895c18d8d104ba02a2df52b79a4d, type: 3}
-  m_Name: CC Trade Sequence R1.1 TV Wanter Rejected
+  m_Name: Existential Crisis Kid
   m_EditorClassIdentifier: 
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - 'Que porra é eso 280i? '
-  - Eu só quero uma TV PERFEITA
-  - Nada mais satisfará meus desejos
+  - Já estou farto de outras pessoas
+  - Não quero mais viver aqui
+  - Mas acho que não serei feliz em lugar nenhum
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 

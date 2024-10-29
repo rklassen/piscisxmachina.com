@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 1.5
   Text:
   - Mmmmmmmm
-  - tão doce
+  - Tão doce
   - Agora não preciso mais me preocupar com nada ao meu redor
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 

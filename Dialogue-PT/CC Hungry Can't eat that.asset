@@ -15,8 +15,8 @@ MonoBehaviour:
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - Ei, eu não posso comer isso!
-  - Eu só queria não ter que ficar com fome para o fim de tudo.
+  - Ei eu não posso comer isso!
+  - Eu só queria não ter que ficar com fome para o fim de tudo
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 

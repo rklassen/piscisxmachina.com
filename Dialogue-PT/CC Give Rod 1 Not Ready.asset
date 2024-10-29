@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 1.5
   Text:
   - Só estou interessado em pessoas que estejam SERIAMENTE interessadas em coletar NÚCLEOS DE COERÊNCIA
-  - Veremos se você está pronto para desligar
+  - 'Veremos se você está pronto para desligar '
   - quando você tiver encontrado pelo menos 4 NÚCLEOS DE COERÊNCIA
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 

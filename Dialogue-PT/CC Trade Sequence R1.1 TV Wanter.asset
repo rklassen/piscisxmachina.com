@@ -17,7 +17,7 @@ MonoBehaviour:
   Text:
   - Quero uma TV PERFEITA
   - Há alguns na ilha, mas eles não têm a imagem perfeita
-  - Herdei esse LIVRO RARO, mas não consigo ler
+  - Herdei esse LIVRO RARO, não consigo ler nada
   - Eu preferiria ter uma TV PERFEITA em seu lugar
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 

@@ -15,8 +15,7 @@ MonoBehaviour:
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - Só estou interessado em pessoas que levam a sério a 
-    recopilación de la coherencia
+  - Só estou interessado em pessoas que levam a SÉRIO a coleta dos núcleos de coerência
   - Veremos se você está pronto se puder trazer quatro
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
