@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 1.5
   Text:
   - Solo me interesan personas que sean SERIAS en cuanto a recolectar NÚCLEOS DE COHERENCIA
-  - Lo veremos si estás listo para colgar
+  - 'veremos si estás listo para demostrar tus habilidades '
   - cuando hayas encontrado al menos 4 NÚCLEOS DE COHERENCIA
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 

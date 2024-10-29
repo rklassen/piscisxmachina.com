@@ -17,7 +17,7 @@ MonoBehaviour:
   Text:
   - Necesito descansar
   - Podría haber derramado algo de esa mierda de incoherencia sobre mí
-  - Ahora ten cuidado con eso, podría no ser lo que piensas que es
+  - Ahora ten cuidado con eso podría no ser lo que piensas que es
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 

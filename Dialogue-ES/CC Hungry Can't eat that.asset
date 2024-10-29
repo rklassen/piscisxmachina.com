@@ -15,7 +15,7 @@ MonoBehaviour:
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - ¡Oye, no puedo comer eso!
+  - ¡Oye no puedo comer eso!
   - Sólo desearía no tener que estar hambriento por el final de todo
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 

@@ -16,7 +16,7 @@ MonoBehaviour:
   DelayBetweenLines: 1.5
   Text:
   - Me encanta mi nuevo apartamento
-  - Las vistas no son tan buenas como al lado, pero al menos estoy junto al río
+  - Las vistas no son tan buenas como al lado pero al menos estoy junto al río
   EventsToThrowOnStart: 
   EventsToThrowOnLastLine: 
   LeftLabel: 

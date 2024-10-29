@@ -15,7 +15,7 @@ MonoBehaviour:
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - Siempre estaré equivocado, pase lo que pase, ¿no?
+  - Siempre estaré equivocado pase lo que pase ¿no?
   - No puedo seguir así
   - Estoy cansado
   - Me duelen las manos

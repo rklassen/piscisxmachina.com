@@ -15,7 +15,7 @@ MonoBehaviour:
   CharactersPerSecond: 30
   DelayBetweenLines: 1.5
   Text:
-  - 'Que carajo 280i? '
+  - 'Que carajo... 280i? '
   - Sólo quiero un televisor PERFECTO
   - Ninguna otra cosa saciará mis deseos
   EventsToThrowOnStart: 
